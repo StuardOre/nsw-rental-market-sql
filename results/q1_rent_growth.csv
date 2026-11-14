@@ -1,0 +1,36 @@
+dwelling_type,bedroom_group,period,n_months,bonds,median_rent,change_vs_prev_period_pct,change_since_first_full_year_pct
+All dwellings,All sizes,Jan 2022 - Oct 2022,10,255098,535.0,,
+All dwellings,All sizes,Nov 2022 - Oct 2023,12,301058,600.0,,0.0
+All dwellings,All sizes,Nov 2023 - Oct 2024,12,303227,650.0,8.3,8.3
+All dwellings,All sizes,Nov 2024 - Oct 2025,12,296895,700.0,7.7,16.7
+All dwellings,All sizes,Nov 2025 - Oct 2026,12,289274,725.0,3.6,20.8
+Flat/unit,All sizes,Jan 2022 - Oct 2022,10,141427,510.0,,
+Flat/unit,All sizes,Nov 2022 - Oct 2023,12,156263,608.0,,0.0
+Flat/unit,All sizes,Nov 2023 - Oct 2024,12,159780,675.0,11.0,11.0
+Flat/unit,All sizes,Nov 2024 - Oct 2025,12,155389,700.0,3.7,15.1
+Flat/unit,All sizes,Nov 2025 - Oct 2026,12,149690,750.0,7.1,23.4
+Flat/unit,0-1 bed,Jan 2022 - Oct 2022,10,48329,470.0,,
+Flat/unit,0-1 bed,Nov 2022 - Oct 2023,12,55269,560.0,,0.0
+Flat/unit,0-1 bed,Nov 2023 - Oct 2024,12,57842,619.0,10.5,10.5
+Flat/unit,0-1 bed,Nov 2024 - Oct 2025,12,55841,650.0,5.0,16.1
+Flat/unit,0-1 bed,Nov 2025 - Oct 2026,12,54778,680.0,4.6,21.4
+Flat/unit,2 bed,Jan 2022 - Oct 2022,10,79182,530.0,,
+Flat/unit,2 bed,Nov 2022 - Oct 2023,12,85233,630.0,,0.0
+Flat/unit,2 bed,Nov 2023 - Oct 2024,12,86033,700.0,11.1,11.1
+Flat/unit,2 bed,Nov 2024 - Oct 2025,12,83608,730.0,4.3,15.9
+Flat/unit,2 bed,Nov 2025 - Oct 2026,12,79289,760.0,4.1,20.6
+House,All sizes,Jan 2022 - Oct 2022,10,97731,560.0,,
+House,All sizes,Nov 2022 - Oct 2023,12,126690,600.0,,0.0
+House,All sizes,Nov 2023 - Oct 2024,12,125671,650.0,8.3,8.3
+House,All sizes,Nov 2024 - Oct 2025,12,125528,680.0,4.6,13.3
+House,All sizes,Nov 2025 - Oct 2026,12,124272,700.0,2.9,16.7
+House,3 bed,Jan 2022 - Oct 2022,10,42292,530.0,,
+House,3 bed,Nov 2022 - Oct 2023,12,53475,550.0,,0.0
+House,3 bed,Nov 2023 - Oct 2024,12,51891,600.0,9.1,9.1
+House,3 bed,Nov 2024 - Oct 2025,12,51096,640.0,6.7,16.4
+House,3 bed,Nov 2025 - Oct 2026,12,49909,650.0,1.6,18.2
+House,4+ bed,Jan 2022 - Oct 2022,10,33625,690.0,,
+House,4+ bed,Nov 2022 - Oct 2023,12,44058,720.0,,0.0
+House,4+ bed,Nov 2023 - Oct 2024,12,44976,780.0,8.3,8.3
+House,4+ bed,Nov 2024 - Oct 2025,12,45989,800.0,2.6,11.1
+House,4+ bed,Nov 2025 - Oct 2026,12,46145,850.0,6.3,18.1

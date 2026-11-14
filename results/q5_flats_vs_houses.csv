@@ -1,0 +1,7 @@
+metric_order,metric,value
+1,"NSW median weekly rent, 2-bed flat",760.0
+2,"NSW median weekly rent, 3-bed house",650.0
+3,Postcodes compared (30+ leases of each type),249.0
+4,Postcodes where the 3-bed house rents for more,247.0
+5,Share of 2-bed flat leases in postcodes 2000-2249 (%),80.3
+6,Share of 3-bed house leases in postcodes 2000-2249 (%),28.0
